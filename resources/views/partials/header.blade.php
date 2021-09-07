@@ -9,14 +9,14 @@
             <ul>
                 <li><a href="{{ route('home') }}">Characters</a></li>
                 <li><a href="{{ route('comics') }}">Comics</a></li>
-                <li><a href="{{ route('home') }}">Movies</a></li>
-                <li><a href="{{ route('home') }}">Tv</a></li>
-                <li><a href="{{ route('home') }}">Games</a></li>
-                <li><a href="{{ route('home') }}">Collectibles</a></li>
-                <li><a href="{{ route('home') }}">Videos</a></li>
-                <li><a href="{{ route('home') }}">Fans</a></li>
-                <li><a href="{{ route('home') }}">News</a></li>
-                <li><a href="{{ route('home') }}">Shop</a></li>
+                <li><a href="{{ route('movie') }}">Movies</a></li>
+                <li><a href="{{ route('tv') }}">Tv</a></li>
+                <li><a href="{{ route('games') }}">Games</a></li>
+                <li><a href="{{ route('collectibles') }}">Collectibles</a></li>
+                <li><a href="{{ route('videos') }}">Videos</a></li>
+                <li><a href="{{ route('fans') }}">Fans</a></li>
+                <li><a href="{{ route('news') }}">News</a></li>
+                <li><a href="{{ route('shop') }}">Shop</a></li>
             </ul>
         </nav>
 
